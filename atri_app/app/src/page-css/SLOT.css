@@ -1,0 +1,67 @@
+.p-SLOT.BACKGROUND_FLEX {
+display: flex;
+flex-direction: column;
+width: 100%;
+height: 100%;
+row-gap: 60%;
+background-image: url("/app-assets/pexels-dmitry-zvolskiy-3581751.jpg");
+background-repeat: round;
+}
+.p-SLOT.Flex8 {
+display: flex;
+margin-top: 25px;
+row-gap: %;
+column-gap: 3%;
+}
+.p-SLOT.Flex9 {
+display: flex;
+width: 30%;
+margin-top: 20px;
+margin-left: 20px;
+flex-direction: column;
+row-gap: 10px;
+}
+.p-SLOT.Flex10 {
+display: flex;
+}
+.p-SLOT.Flex11 {
+display: flex;
+align-items: center;
+justify-content: center;
+margin-top: 25px;
+}
+.p-SLOT.TextBox4 {
+width: 40%;
+background-color: #ecbcbc;
+border-top-left-radius: 10%;
+border-bottom-right-radius: 10%;
+}
+.p-SLOT.Dropdown2 {
+width: 40%;
+}
+.p-SLOT.Step1 {
+width: 100%;
+margin-left: 180px;
+margin-top: 50px;
+}
+.p-SLOT.Button2 {
+color: #000000;
+background-color: #18ebff;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 16px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #ff1840;
+cursor: pointer;
+user-select: none;
+align-self: center;
+border-top-left-radius: 20%;
+border-bottom-right-radius: 20%;
+}

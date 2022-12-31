@@ -1,0 +1,10 @@
+{
+  "Flex": 15,
+  "TextBox": 5,
+  "Button": 2,
+  "Cascader": 1,
+  "Dropdown": 2,
+  "Checkbox": 1,
+  "Step": 1,
+  "Image": 2
+}

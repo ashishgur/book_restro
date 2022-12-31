@@ -1,0 +1,14 @@
+{
+  "home": {
+    "name": "Home",
+    "route": "/"
+  },
+  "51aabfb5-8c84-4d78-9f04-3bb122ebcd0b": {
+    "name": "SLOT",
+    "route": "/SLOT"
+  },
+  "9791f617-dd32-4e70-88e7-03b710ad24b6": {
+    "name": "SCANNER",
+    "route": "/SCANNER"
+  }
+}
