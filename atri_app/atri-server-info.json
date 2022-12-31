@@ -15,5 +15,7 @@
   },
   "publicUrlAssetMap": {
     "/app-assets": "..\\assets"
-  }
+  },
+  "organizationName": "ashishgur",
+    "projectName": "book_restro"
 }
